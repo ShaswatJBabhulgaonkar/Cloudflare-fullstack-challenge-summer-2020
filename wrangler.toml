@@ -1,0 +1,6 @@
+name = "cloudflare_fullstackintern"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
